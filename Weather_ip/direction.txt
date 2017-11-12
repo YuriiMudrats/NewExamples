@@ -1,0 +1,8 @@
+ N==>WS, S, SE
+NE==>W, WS, S
+E==>NW, W , WS
+SE==>N, NW ,W
+S==>NW, N , NE
+WS==>N, NE, E
+W==>NE,E ,SE
+NW==>E,SE, S
